@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		65344A7C22F41CFE00E7606D /* Recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65344A7B22F41CFE00E7606D /* Recursion.cpp */; };
 		65344A7E22F465DC00E7606D /* BoggleGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65344A7D22F465DC00E7606D /* BoggleGame.cpp */; };
+		654D637422F72FE6005EDC40 /* Picnic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 654D637322F72FE6005EDC40 /* Picnic.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		65344A7022F41CAA00E7606D /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		65344A7B22F41CFE00E7606D /* Recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Recursion.cpp; sourceTree = "<group>"; };
 		65344A7D22F465DC00E7606D /* BoggleGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BoggleGame.cpp; sourceTree = "<group>"; };
+		654D637322F72FE6005EDC40 /* Picnic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Picnic.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				65344A7B22F41CFE00E7606D /* Recursion.cpp */,
 				65344A7D22F465DC00E7606D /* BoggleGame.cpp */,
+				654D637322F72FE6005EDC40 /* Picnic.cpp */,
 			);
 			path = "Brute-force";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65344A7C22F41CFE00E7606D /* Recursion.cpp in Sources */,
+				654D637422F72FE6005EDC40 /* Picnic.cpp in Sources */,
 				65344A7E22F465DC00E7606D /* BoggleGame.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

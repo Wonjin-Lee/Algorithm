@@ -6,7 +6,6 @@
 //  Copyright © 2019 LEE WON JIN. All rights reserved.
 //
 
-#include <stdio.h>
 #include <iostream>
 
 using namespace std;
