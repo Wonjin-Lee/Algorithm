@@ -10,6 +10,7 @@
 		65344A7C22F41CFE00E7606D /* Recursion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65344A7B22F41CFE00E7606D /* Recursion.cpp */; };
 		65344A7E22F465DC00E7606D /* BoggleGame.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 65344A7D22F465DC00E7606D /* BoggleGame.cpp */; };
 		654D637422F72FE6005EDC40 /* Picnic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 654D637322F72FE6005EDC40 /* Picnic.cpp */; };
+		654D637622F7C7BD005EDC40 /* BoardCover.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 654D637522F7C7BD005EDC40 /* BoardCover.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		65344A7B22F41CFE00E7606D /* Recursion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Recursion.cpp; sourceTree = "<group>"; };
 		65344A7D22F465DC00E7606D /* BoggleGame.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BoggleGame.cpp; sourceTree = "<group>"; };
 		654D637322F72FE6005EDC40 /* Picnic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Picnic.cpp; sourceTree = "<group>"; };
+		654D637522F7C7BD005EDC40 /* BoardCover.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BoardCover.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				65344A7B22F41CFE00E7606D /* Recursion.cpp */,
 				65344A7D22F465DC00E7606D /* BoggleGame.cpp */,
 				654D637322F72FE6005EDC40 /* Picnic.cpp */,
+				654D637522F7C7BD005EDC40 /* BoardCover.cpp */,
 			);
 			path = "Brute-force";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				65344A7C22F41CFE00E7606D /* Recursion.cpp in Sources */,
 				654D637422F72FE6005EDC40 /* Picnic.cpp in Sources */,
+				654D637622F7C7BD005EDC40 /* BoardCover.cpp in Sources */,
 				65344A7E22F465DC00E7606D /* BoggleGame.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
